@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ashish Kumar
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning React for Web Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 'Ashish29300@gmail.com'
 
 <!---
